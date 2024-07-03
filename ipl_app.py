@@ -73,7 +73,3 @@ if st.button('Predict Probability'):
     st.header(battingteam+"- "+str(round(winprob*100))+"%")
 
     st.header(bowlingteam+"- "+str(round(lossprob*100))+"%")
-
-
-
-    # Thnak you anu R
